@@ -10,7 +10,7 @@ public class Spil {
 		Scanner s;
 		
 		while(true) {
-			int nr = 0;
+			int nr = 1;
 			String input;
 			Spiller[] spillere = new Spiller[2];
 			Kast kast = new Kast();
